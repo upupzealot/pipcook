@@ -3,7 +3,7 @@
     "dataCollect": {
       "package": "@pipcook/plugins-object-detection-coco-data-collect",
       "params": {
-        "url": "http://ai-sample.oss-cn-hangzhou.aliyuncs.com/image_classification/datasets/autoLayoutGroupRecognition.zip"
+        "url": "https://zhijiansha.oss-cn-hangzhou.aliyuncs.com/deep-learning/output.zip"
       }
     },
     "dataAccess": {
