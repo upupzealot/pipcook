@@ -3,7 +3,7 @@
     "dataCollect": {
       "package": "@pipcook/plugins-object-detection-coco-data-collect",
       "params": {
-        "url": "https://zhijiansha.oss-cn-hangzhou.aliyuncs.com/deep-learning/output.zip"
+        "url": "https://zhijiansha.oss-cn-hangzhou.aliyuncs.com/deep-learning/component-recognition-detection.zip"
       }
     },
     "dataAccess": {
