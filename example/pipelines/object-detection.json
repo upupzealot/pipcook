@@ -15,7 +15,7 @@
     "modelTrain": {
       "package": "@pipcook/plugins-detectron-model-train",
       "params": {
-        "steps": 10000
+        "steps": 100
       }
     },
     "modelEvaluate": {
