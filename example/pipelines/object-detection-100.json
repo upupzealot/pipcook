@@ -1,7 +1,7 @@
 {
   "plugins": {
     "dataCollect": {
-      "package": "@pipcook/plugins-object-detection-coco-data-collect",
+      "package": "@pipcook/plugins-object-detection-pascalvoc-data-collect",
       "params": {
         "url": "https://zhijiansha.oss-cn-hangzhou.aliyuncs.com/deep-learning/output.zip"
       }
