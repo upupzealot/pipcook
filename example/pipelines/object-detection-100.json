@@ -7,7 +7,7 @@
       }
     },
     "dataAccess": {
-      "package": "@pipcook/plugins-coco-data-access"
+      "package": "@pipcook/plugins-pascalvoc-data-access"
     },
     "modelDefine": {
       "package": "@pipcook/plugins-detectron-fasterrcnn-model-define"
