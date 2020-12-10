@@ -1,13 +1,13 @@
 {
   "plugins": {
     "dataCollect": {
-      "package": "@pipcook/plugins-object-detection-pascalvoc-data-collect",
+      "package": "@pipcook/plugins-object-detection-coco-data-collect",
       "params": {
         "url": "https://zhijiansha.oss-cn-hangzhou.aliyuncs.com/deep-learning/output.zip"
       }
     },
     "dataAccess": {
-      "package": "@pipcook/plugins-pascalvoc-data-access"
+      "package": "@pipcook/plugins-coco-data-access"
     },
     "modelDefine": {
       "package": "@pipcook/plugins-detectron-fasterrcnn-model-define"
